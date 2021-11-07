@@ -5,7 +5,6 @@ const client = new Client({ intents: [Intents.FLAGS.GUILDS, Intents.FLAGS.GUILD_
 const ytdl = require("ytdl-core");
 const ytSearch = require('yt-search');
 const prefix = '-';
-const bot= require("./config.json");
 
 var servers = {};
 
