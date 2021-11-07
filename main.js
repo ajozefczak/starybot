@@ -99,4 +99,4 @@ client.on('message', message =>{
     }
 });
 
-client.login(bot.token.value);
+client.login(process.env.DJS_TOKEN);
