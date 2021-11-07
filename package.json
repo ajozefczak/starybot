@@ -9,7 +9,6 @@
   "author": "Vojak",
   "license": "ISC",
   "dependencies": {
-    "@discordjs/voice": "github:discordjs/voice",
     "discord.js": "^12.5.3",
     "ffmpeg-static": "^4.4.0",
     "opusscript": "^0.0.8",
