@@ -1,1 +1,1 @@
-# starybot
+# starybot - discord bot
