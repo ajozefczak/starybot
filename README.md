@@ -1,1 +1,1 @@
-# starybot - discord bot
+# starybot - discord boteł
