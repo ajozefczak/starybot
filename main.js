@@ -58,6 +58,9 @@ client.on('message', message =>{
         case 'powrot':
             message.channel.send('Stary wrócił online!', {files: ["https://i.kym-cdn.com/entries/icons/original/000/028/086/cover1.jpg"]});
         break;
+        case 'urzytkownik':
+            message.channel.send('Słownik by ci się przydał Kamil.');
+        break;    
         case '5head':
             message.channel.send('Zajebisty pomysł wariacie.');
         break;
